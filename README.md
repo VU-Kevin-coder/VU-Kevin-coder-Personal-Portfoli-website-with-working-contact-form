@@ -25,9 +25,9 @@ A clean and modern responsive portfolio website built using **HTML**, **CSS**, a
 1. Clone the repository  
    git clone https://github.com/VU-Kevin-coder/VU-Kevin-coder-Personal-Portfoli-website-with-working-contact-form.git
    cd responsive-portfolio-formsubmit
-2. Open index.html in your browser or deploy using GitHub Pages.
+3. Open index.html in your browser or deploy using GitHub Pages.
 
-3. Make sure to replace the action in the contact form with your own FormSubmit.co email:
+4. Make sure to replace the action in the contact form with your own FormSubmit.co email:
 
 <form action="https://formsubmit.co/kevindaroyal03@gmail.com" method="POST">
    
