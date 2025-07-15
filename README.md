@@ -30,7 +30,8 @@ A clean and modern responsive portfolio website built using **HTML**, **CSS**, a
 3. Make sure to replace the action in the contact form with your own FormSubmit.co email:
 
 <form action="https://formsubmit.co/kevindaroyal03@gmail.com" method="POST">
-## ✏️ Customization
+   
+##  ✏️ Customization
 Modify sections like "About", "Projects", "Contact" directly in index.html.
 
 Change color schemes or layout styles via style.css.
