@@ -3,7 +3,7 @@ A clean and modern responsive portfolio website built using **HTML**, **CSS**, a
 
 ## 🚀 Demo
 
-👉 [Live Demo]([https://yourusername.github.io/responsive-portfolio-formsubmit](https://vu-kevin-coder.github.io/VU-Kevin-coder-Personal-Portfoli-website-with-working-contact-form/) 
+👉 [Live Demo]([demo](https://vu-kevin-coder.github.io/VU-Kevin-coder-Personal-Portfoli-website-with-working-contact-form/) 
 
 ## 🛠 Features
 
